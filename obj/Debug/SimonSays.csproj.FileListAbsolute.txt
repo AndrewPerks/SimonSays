@@ -1,0 +1,17 @@
+D:\Data\SimonSays\SimonSays\bin\Debug\SimonSays.exe.config
+D:\Data\SimonSays\SimonSays\bin\Debug\SimonSays.exe
+D:\Data\SimonSays\SimonSays\bin\Debug\SimonSays.pdb
+D:\Data\SimonSays\SimonSays\obj\Debug\SimonSays.csprojResolveAssemblyReference.cache
+D:\Data\SimonSays\SimonSays\obj\Debug\MainWindow.baml
+D:\Data\SimonSays\SimonSays\obj\Debug\MainWindow.g.cs
+D:\Data\SimonSays\SimonSays\obj\Debug\App.g.cs
+D:\Data\SimonSays\SimonSays\obj\Debug\SimonSays_MarkupCompile.cache
+D:\Data\SimonSays\SimonSays\obj\Debug\SimonSays.g.resources
+D:\Data\SimonSays\SimonSays\obj\Debug\SimonSays.Properties.Resources.resources
+D:\Data\SimonSays\SimonSays\obj\Debug\SimonSays.csproj.GenerateResource.Cache
+D:\Data\SimonSays\SimonSays\obj\Debug\SimonSays.exe
+D:\Data\SimonSays\SimonSays\obj\Debug\SimonSays.pdb
+D:\Data\SimonSays\SimonSays\obj\Debug\GameWindow.baml
+D:\Data\SimonSays\SimonSays\obj\Debug\GameWindow.g.cs
+D:\Data\SimonSays\SimonSays\obj\Debug\GameOverWindow.baml
+D:\Data\SimonSays\SimonSays\obj\Debug\GameOverWindow.g.cs
